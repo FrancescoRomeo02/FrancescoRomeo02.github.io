@@ -11,26 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2024 22:59:29 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 15:45:43 +0100</lastBuildDate>
     <atom:link href="https://francescoromeo02.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 01</title>
-      <link>https://francescoromeo02.github.io/project/project-01/</link>
+      <title>Kicking Insights</title>
+      <link>https://francescoromeo02.github.io/project/kickinginsights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://francescoromeo02.github.io/project/project-01/</guid>
-      <description>Project 01 Overview Brief overview of the project.
-Getting Started Instructions on how to set up and run the project locally.
-Features List of key features of the project.
-Documentation Links to detailed documentation or API reference.
-Contributing Information on how to contribute to the project.
-License Details about the project&amp;rsquo;s license.</description>
+      <guid>https://francescoromeo02.github.io/project/kickinginsights/</guid>
+      <description>Project Overview Welcome to Kicking Insights, your ultimate destination for soccer data analysis and visualization. This project is developed using Django for web development, FBref for data (utilizing their API), Python for development, and various JavaScript libraries for immersive data visualization.
+Getting Started To get the project up and running locally, follow these steps:
+Clone the repository: git clone [repository_url] Navigate to the project directory: cd [project_directory] Install dependencies: pip install -r requirements.</description>
     </item>
     <item>
-      <title>Post 01</title>
-      <link>https://francescoromeo02.github.io/post/post-01/</link>
-      <pubDate>Tue, 13 Feb 2024 22:59:29 +0100</pubDate>
-      <guid>https://francescoromeo02.github.io/post/post-01/</guid>
-      <description>Desc Text.</description>
+      <title>Django Demystified</title>
+      <link>https://francescoromeo02.github.io/post/django-00/</link>
+      <pubDate>Fri, 16 Feb 2024 15:45:43 +0100</pubDate>
+      <guid>https://francescoromeo02.github.io/post/django-00/</guid>
+      <description>Embark on your Django journey with this comprehensive guide! Learn the essentials of Django, from installing the framework and creating your first project to unraveling the intricate architecture that powers your web applications.</description>
     </item>
     <item>
       <title></title>
