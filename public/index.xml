@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FR</title>
+    <link>https://francescoromeo02.github.io/</link>
+    <description>Recent content on FR</description>
+    <image>
+      <title>FR</title>
+      <url>https://francescoromeo02.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://francescoromeo02.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2024 22:59:29 +0100</lastBuildDate>
+    <atom:link href="https://francescoromeo02.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 01</title>
+      <link>https://francescoromeo02.github.io/project/project-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://francescoromeo02.github.io/project/project-01/</guid>
+      <description>Project 01 Overview Brief overview of the project.
+Getting Started Instructions on how to set up and run the project locally.
+Features List of key features of the project.
+Documentation Links to detailed documentation or API reference.
+Contributing Information on how to contribute to the project.
+License Details about the project&amp;rsquo;s license.</description>
+    </item>
+    <item>
+      <title>Post 01</title>
+      <link>https://francescoromeo02.github.io/post/post-01/</link>
+      <pubDate>Tue, 13 Feb 2024 22:59:29 +0100</pubDate>
+      <guid>https://francescoromeo02.github.io/post/post-01/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://francescoromeo02.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://francescoromeo02.github.io/cv/</guid>
+      <description>Romeo Francesco Personal Info E-mail: romeo.francesco.2002@gmail.com Education University of Milan Bicocca
+Bachelor’s degree in Computer Science and Technology (currently) Francesco Vigano&amp;rsquo; State Higher Institute
+I.T. Diploma Work Experience Private Tutor After a positive high school teaching experience, focused on tutoring in mathematics, physics, and computer science for students aged 11 to 20. Currently tutoring over a dozen students.
+FIMMA, LC - Summer 2019 Python Developer: Developed an application for automatic management of production machine data and backup during a one-month internship.</description>
+    </item>
+  </channel>
+</rss>
